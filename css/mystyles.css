@@ -1,0 +1,40 @@
+.bgpage {
+   background-color: #F1F1F5;
+/*    background-image: url(../images/track&field_facility.jpeg);*/
+/*
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
+*/
+}
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.raceschedule{
+    border-style: dotted;
+    border-width: 1px;
+}
+
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
+
+.videointro{
+    color: navy;
+}
+
+.tableau{
+    font-family: sans-serif;
+}
+
+.homepage{
+    float: down;
+}
